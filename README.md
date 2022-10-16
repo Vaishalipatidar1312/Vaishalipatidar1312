@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaishalipatidar1312
-- 👀 I’m interested in java and web development
+- 👀 I’m interested in coding in cpp and web development
 - 🌱 I’m currently learning DSA and front end
 - 📫 How to reach me vaishali.patidar1312@gmail.com
 
